@@ -1,3 +1,6 @@
+## Summary
+
+This project is an AI-powered CV Analyzer developed with Streamlit. Users can upload a PDF resume, and the application extracts the text, identifies technical skills, and provides an AI-based evaluation with improvement suggestions.
 # AI CV Analyzer
 
 AI CV Analyzer is a Streamlit application that analyzes PDF CV files.
